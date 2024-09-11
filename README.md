@@ -1,3 +1,4 @@
+![Algo_Assist_Banner](images/algo_assist_banner.png)
 
 # AlgoAssist
 

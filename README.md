@@ -116,6 +116,30 @@ This application is developed for educational purposes as part of the CS50p Pyth
 
 
 
+## Future Enhancements
+
+### General Improvements
+
+- **General Improvements:**
+    - Web Application: Migrate AlgoAssist to a web-based application using React for a more interactive and accessible user experience.
+    - Code Optimization: Refactor code for better separation of concerns, such as moving drawing logic from visualizer.py to a drawing_utils module. Optimize menu rendering, instructions, and algorithm details pages for smoother navigation.
+
+- **Sorting Visualizer Improvements:**
+    - New Algorithms: Add non-comparison-based sorting algorithms such as Radix Sort (LSD/MSD) and Bucket Sort to diversify the available sorting options.
+    - Pseudo Code Visualization: Introduce a pseudo code visualizer to run alongside the sorting visualization, particularly helpful in Step Mode for a deeper understanding of the algorithm's logic.
+    - Advanced Visualizations: Introduce new types of visualizations beyond bars, such as:
+    - Scatter Plots: Visualize the sorting process with points moving vertically as they are sorted.
+    - Circular Layouts: Arrange elements in a circle, visualizing sorting through rotation or movement along the circumference.
+    - Radial Visualizations: Display sorting progress radiating outward from a central point, highlighting swaps and comparisons dynamically.
+    - Sound Integration: Incorporate sound effects during sorting operations to make the experience more engaging, with auditory feedback corresponding to comparisons, swaps, or algorithm steps.
+    - Step Back Feature: Add a "Step Back" feature in Step Mode, allowing users to reverse the algorithm step-by-step for deeper exploration and understanding.
+
+- **Pathfinding Visualizer Improvements:**
+    - Weighted Graphs: Implement Dijkstra’s Algorithm with support for weighted graphs, offering more practical real-world scenarios in pathfinding.
+    - Diagonal Jumping: Add an option for diagonal movement in the pathfinding algorithms, with customizable costs for diagonal moves.
+    - Visualization Delays: Introduce customizable delays for pathfinding algorithms and maze generation to better visualize their step-by-step process.
+    - Random Maze Generation: Add more random maze generation options to create varied and complex mazes with a single click.
+    - Sound Integration: Implement sound effects during the execution of pathfinding algorithms to enhance the visualization experience.
 ## Demo
 
 

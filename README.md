@@ -141,7 +141,12 @@ This application is developed for educational purposes as part of the CS50p Pyth
     - Visualization Delays: Introduce customizable delays for pathfinding algorithms and maze generation to better visualize their step-by-step process.
     - Random Maze Generation: Add more random maze generation options to create varied and complex mazes with a single click.
     - Sound Integration: Implement sound effects during the execution of pathfinding algorithms to enhance the visualization experience.
+      
 ## Demo
+
+### Youtube Demo:
+
+[![Watch the video](https://img.youtube.com/vi/SLKWunW-vy4/0.jpg)](https://www.youtube.com/watch?v=SLKWunW-vy4)
 
 
 
